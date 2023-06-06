@@ -1,0 +1,4 @@
+An easy tool to make the tedious task of
+making report cards troublefree.
+The report cards generated can be screenshotted
+and saved for future use.
